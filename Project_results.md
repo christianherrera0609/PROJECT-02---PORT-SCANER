@@ -6,4 +6,4 @@ On the other hand the script ask until wich port do you want to scan and returns
 This script is really useful to a quick check on the ports, but it is stil slow scanning 100 ports at the time.
 
 ![alt text](image.png)
-Images/image.png
+https://github.com/christianherrera0609/PROJECT-02---PORT-SCANER/blob/main/Images/image.png?raw=true
